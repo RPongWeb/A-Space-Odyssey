@@ -1,0 +1,37 @@
+p.one, p.three 
+	{	
+		background-color: #00BFFF;
+		color : black;
+	}
+h2 	
+	{	
+		background-color: inherit;
+		font-size : inherit;
+	}
+body 
+	{ 
+		border: 5px solid #0000FF;
+		border-radius: 20px;
+		padding: 10px;
+		background-color: #FF8C00;
+		font-size : 36px;
+		font-family : Calibri;
+	}
+p.two, p.four
+	{
+		color: #00BFFF;
+		background-color: black;
+	}
+img
+	{
+		height : 100%;
+		top: 0;
+		bottom : 0;
+		padding-right : 5%;
+		padding-bottom : 5%;
+	}
+div
+	{
+		text-align : center;
+		margin : 0 auto;
+	}
